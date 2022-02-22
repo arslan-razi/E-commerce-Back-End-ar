@@ -50,7 +50,7 @@ https://github.com/arslan-razi/E-commerce-Back-End-ar
 ![Screenshot](./assets/screenshot.png)
 
 ## Video Demo
-[Video Link](******************************************************************)
+[Video Link](https://youtu.be/IFpgjQ9QL3E)
 
 ## Technologies Used
 1. JavaScript
